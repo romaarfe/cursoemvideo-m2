@@ -41,21 +41,29 @@
 * Acima de 40: Obesidade Mórbida
 
 44) Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
-– à vista dinheiro/cheque: 10% de desconto
-– à vista no cartão: 5% de desconto
-– em até 2x no cartão: preço formal 
-– 3x ou mais no cartão: 20% de juros
+* à vista dinheiro/cheque: 10% de desconto
+* à vista no cartão: 5% de desconto
+* em até 2x no cartão: preço formal 
+* 3x ou mais no cartão: 20% de juros
 
 45) Crie um programa que faça o computador jogar Jokenpô com você.
+
 46) Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
 47) Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+
 48) Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+
 49) Refaça o DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+
 50) Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+
 51) Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+
 52) Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+
 53) Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos:
-– APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA.
+* APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA.
 54) Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
 55) Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 56) Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
