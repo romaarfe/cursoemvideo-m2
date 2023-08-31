@@ -84,9 +84,11 @@
 
 Seu programa deverá realizar a operação solicitada em cada caso.
 
-60) Faça um programa que leia um número qualquer e mostre o seu fatorial. Exemplo:
-5! = 5 x 4 x 3 x 2 x 1 = 120
+60) Faça um programa que leia um número qualquer e mostre o seu fatorial. 
+* Exemplo: 5! = 5 x 4 x 3 x 2 x 1 = 120
+
 61) Refaça o DESAFIO 51, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+
 62) Melhore o DESAFIO 61, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
 63) Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci. Exemplo:
 0 – 1 – 1 – 2 – 3 – 5 – 8
