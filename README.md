@@ -22,11 +22,11 @@
 * Média 7.0 ou superior: APROVADO
 
 41) A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
-– Até 9 anos: MIRIM
-– Até 14 anos: INFANTIL
-– Até 19 anos: JÚNIOR
-– Até 25 anos: SÊNIOR
-– Acima de 25 anos: MASTER
+* Até 9 anos: MIRIM
+* Até 14 anos: INFANTIL
+* Até 19 anos: JÚNIOR
+* Até 25 anos: SÊNIOR
+* Acima de 25 anos: MASTER
 
 42) Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 – EQUILÁTERO: todos os lados iguais
